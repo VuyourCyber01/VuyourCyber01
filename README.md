@@ -6,13 +6,13 @@
 <br><br>
 <p align="left"><img align="left" src="https://i.postimg.cc/ZKP1HM0F/look2.jpg" width="200px"></p>
 <ul align="right">
-  <li align="left">&nbsp;&nbsp;&nbsp;&nbsp;Sawubona  :), I am Vuyo...</li>
-  <li align="left">&nbsp;&nbsp;&nbsp;&nbsp;Full-Stack Developer;</li>
-  <li align="left">&nbsp;&nbsp;&nbsp;&nbsp;AI Specialist;</li>
-  <li align="left">&nbsp;&nbsp;&nbsp;&nbsp;UI/UX Designer;</li>
-  <li align="left">&nbsp;&nbsp;&nbsp;&nbsp;Data Scientist & Data Analyst.</li>
-  <li align="left">&nbsp;&nbsp;&nbsp;&nbsp;I am actively seeking collaboration opportunities and endeavoring to develop innovative products.</li>
-  <li align="left">&nbsp;&nbsp;&nbsp;&nbsp;Visit  <a href="https://vuyokazimkane.vercel.app/" target="_blank">Portfolio</a> to know more about me.</li>
+  <li align="left">&nbsp;&nbsp;&nbsp;Sawubona  :), I am Vuyo...</li>
+  <li align="left">&nbsp;&nbsp;&nbsp;Full-Stack Developer;</li>
+  <li align="left">&nbsp;&nbsp;&nbsp;AI Specialist;</li>
+  <li align="left">&nbsp;&nbsp;&nbsp;UI/UX Designer;</li>
+  <li align="left">&nbsp;&nbsp;&nbsp;Data Scientist & Data Analyst.</li>
+  <li align="left">&nbsp;&nbsp;&nbsp;I am actively seeking collaboration opportunities and endeavoring to develop innovative products.</li>
+  <li align="left">&nbsp;&nbsp;&nbsp;Visit  <a href="https://vuyokazimkane.vercel.app/" target="_blank">Portfolio</a> to know more about me.</li>
 </ul>
 <br><br><br><br>
 
@@ -25,6 +25,7 @@
 
 <p align="left">
   <a href="mailto:whittanymcne1@gmail.com" target="_blank"><img src="https://i.postimg.cc/vZ9dvnpn/email_2669570.png" alt="Gmail" height="50" title="Gmail"></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
  <a href="https://codepen.io/VuyourCyber01/collections/public" target="_blank"><img src="https://i.postimg.cc/nLvwXYNd/codepen.png" alt="Codepen" height="50" title="Codepen"></a>
 </p>
 <br>
@@ -39,10 +40,6 @@
 <img src="https://i.postimg.cc/d371B12x/java.png" alt="java" height="50" title="JAVA">
 <img src="https://i.postimg.cc/rsdHwXT4/python.png" alt="PYTHON" height="50" title="PYTHON">
 <img src="https://i.postimg.cc/gJWnGmPw/angular.png" alt="ANGULAR" height="50" title="ANGULAR">
-</p>
-<br>
-
-<p align="left">
 <img src="https://i.postimg.cc/h47cpHF6/android.png" alt="ANDROID" height="50" title="ANDROID">
 <img src="https://i.postimg.cc/3JmrJznm/tailwindcss.png" alt="TAILWINDCSS" height="50" title="TAILWINDCSS">
 <img src=https://i.postimg.cc/P5Fd6hxG/react.png" alt="REACT" height="50" title="REACT">
@@ -56,21 +53,11 @@
 <img src="https://i.postimg.cc/VLk64KRC/figma.png" alt="FIGMA" height="50" title="FIGMA">
 <img src="https://i.postimg.cc/85XQtmw1/illustrator.png" alt="ILLUSTRATOR" height="50" title="ILLUSTRATOR">
 <img src="https://i.postimg.cc/02JZB0ZV/canva1.png" alt="CANVA" height="50" title="CANVA">
-</p>
-<br>
-
-<p align="left">
 <img src="https://i.postimg.cc/pry96kHk/wordpress.png" alt="WORDPRESS" height="50" title="WORDPRESS">
 <img src="https://i.postimg.cc/3Nb80HzF/aws.png" alt="AWS" height="50" title="AWS">
 <img src="https://i.postimg.cc/zB8X97nK/docker.png" alt="DOCKER" height="50" title="DOCKER">
-</p>
-<br>
-
-<p align="left">
 <img src="https://i.postimg.cc/02TvTZvj/git-alt.png" alt="GIT" height="50" title="GIT">
 <img src="https://i.postimg.cc/sxfPDpRZ/ubuntu.png" alt="UBUNTU" height="50" title="UBUNTU">
-</p>
-<br>
-
 <img src="https://i.postimg.cc/g0v3VMzZ/vuejs.png" alt="VUEJS" height="50" title="VUEJS">
+</p>
 <br>
