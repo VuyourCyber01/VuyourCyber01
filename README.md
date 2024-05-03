@@ -4,7 +4,7 @@
 
 <a href="https://vuyourcyber01.github.io/" align="left"><img align="left" width="122" alt="Frame 21" src="https://i.postimg.cc/3ws1F4Qk/about14.png"></a>
 <br><br>
-<p align="left"><img align="left" src="https://i.postimg.cc/ZKP1HM0F/look2.jpg" width="200px"></p>
+<p align="left"><img align="left" src="https://i.postimg.cc/R0LqtJCG/Portfolio.png" width="200px"></p>
 <ul align="right">
   <li align="left">&nbsp;&nbsp;&nbsp;Sawubona  :), I am Vuyo...</li>
   <li align="left">&nbsp;&nbsp;&nbsp;Full-Stack Developer;</li>
