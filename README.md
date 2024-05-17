@@ -2,23 +2,29 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=052371&random=false&width=435&lines=%22Designing%2C+Defining%2C+and+Delivering%22" alt="Typing SVG" /></a>
 </h2>
 
-<a href="https://vuyourcyber01.github.io/" align="left"><img align="left" width="122" alt="Frame 21" src="https://i.postimg.cc/3ws1F4Qk/about14.png"></a>
-<br><br>
-<p align="left"><img align="left" src="https://i.postimg.cc/SKGM0b36/Portfolio.png" width="300px"></p>
-<ul align="right">
-  <li align="left">&nbsp;&nbsp;&nbsp;Sawubona🌺, I am Vuyo...</li>
-  <li align="left">&nbsp;&nbsp;&nbsp;Full-Stack Developer;</li>
-  <li align="left">&nbsp;&nbsp;&nbsp;AI Specialist;</li>
-  <li align="left">&nbsp;&nbsp;&nbsp;UI/UX Designer;</li>
-  <li align="left">&nbsp;&nbsp;&nbsp;Data Scientist & Data Analyst.</li>
-  <li align="left">&nbsp;&nbsp;&nbsp;I am actively seeking collaboration opportunities and endeavoring to develop innovative products.</li>
-  <li align="left">&nbsp;&nbsp;&nbsp;Visit  <a href="https://vuyokazimkane.vercel.app/" target="_blank">Portfolio</a> to know more about me.</li>
-</ul>
-<br><br><br><br>
+## ABOUT ME.
 
-<p align="left"><img width="117" alt="Frame 24" src="https://i.postimg.cc/8C9KXXMP/about13.png"></p>
+
+❓  Ask me anything related to **Maths**.
+
+💻  At school, I enjoyed **Cryptograph**y which sparked my passion for Blockchain.
+
+🌱  I’m diving into the world of **3D coding** using Blender. 
+
+🔭  My latest obsession is **Android Development**. 
+
+👯  I'm eager to collaborate on open-source projects in **AI** and **ML**. 
+
+⚡  FunFact: I went to **Speech Therapy**.
+
+
+To learn more about me, visit my [portfolio](https://vuyokazimkane.vercel.app/).
+<br>
 <br>
 
+
+
+## CONNECT WITH ME.
 
 
 
@@ -30,8 +36,7 @@
 </p>
 <br>
 
-<img width="137" alt="Frame 22" src="https://i.postimg.cc/J7DmhSPK/about12.png">
-<br><br><br>
+## TECH STACK
 
 <p align="left">
 <img src="https://i.postimg.cc/Z5JLftQL/html.png" alt="HTML" height="50" title="HTML">
