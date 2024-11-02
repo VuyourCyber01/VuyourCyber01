@@ -18,7 +18,7 @@
 ⚡  FunFact: I went to **Speech Therapy**.
 
 
-To learn more about me, visit my [portfolio](https://vuyokazimkane.vercel.app/).
+To learn more about me...
 <br>
 <br>
 
