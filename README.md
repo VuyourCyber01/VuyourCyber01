@@ -7,9 +7,7 @@
 
 ❓  Ask me anything related to **Maths**.
 
-💻  At school, I enjoyed **Cryptograph**y which sparked my passion for Blockchain.
-
-🌱  I’m diving into the world of **NVDIA** with **Cuda**. 
+💻  I’m diving into the world of **NVIDIA** with **CUDA**. 
 
 🔭  My latest obsession is **Bitcoin Development Accelerator**. 
 
@@ -18,7 +16,6 @@
 ⚡  FunFact: I went to **Speech Therapy**.
 
 
-To learn more about me...
 <br>
 <br>
 
